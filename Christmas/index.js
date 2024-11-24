@@ -43,14 +43,14 @@ var dialogs = {
 
 	// VN VERSION
 	'ask_vn': 'nhận quà đi',
-	'question_vn': 'thích này ko? :3',
-	'decline_1vn': 'ờmmmm.. ko thích hả? v còn cái này?',
-	'decline_2vn': 'ayyyzaa, ko luôn? v còn cái này',
-	'decline_3vn': 'ok ok, tutu.. v còn cái này, chắc m sẽ thích',
-	'decline_4vn': 'wtf?? m ko thích tiền á? ấm đầu r',
-	'accept_vn': 'oke oke, mai t tặng cái này(kẹo thôi)',
-	'justkidding_vn': 'giỡn thôi ba, chứ lm j có nhiều v, mai gặp tôi cho kẹo',
-	'noneAnswear_': 'uhmmm.. v thôi tặng kẹo v'
+	'question_vn': 'thích cài này ko?',
+	'decline_1vn': 'v còn cái này???',
+	'decline_2vn': '... vậy cái này?',
+	'decline_3vn': 'okay.. chắc cái này đc..',
+	'decline_4vn': 'wtf?? ngáo đá ha',
+	'accept_vn': 'nuh uh, take my candy blud',
+	'justkidding_vn': 'tiền đâu mà cho 😁',
+	'noneAnswear_': 'uh, v lấy kẹo'
 }
 
 let isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
