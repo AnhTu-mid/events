@@ -43,7 +43,7 @@ var dialogs = {
 
 	// VN VERSION
 	'ask_vn': 'nhận quà đi',
-	'question_vn': 'thích cài này ko?',
+	'question_vn': 'thích cái này ko?',
 	'decline_1vn': 'v còn cái này???',
 	'decline_2vn': '... vậy cái này?',
 	'decline_3vn': 'okay.. chắc cái này đc..',
